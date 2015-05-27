@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    color: black;
+    background-color: white;
+    border-color: #F0F0F0;
+    margin: 0px;
+}
+
+body {
+    font-family: inherit;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.session {
+    max-width: 100%;
+    background-color: #989898;
+    color: white;
+    padding: 20px;
+}
+
+h2 {
+    margin: 10px;
+}
+
+.concept {
+    background-color: #F0F0F0;
+    padding: 6px;
+    margin: 10px;
+    color: black;
+}
+
+.concept-title {
+    font-size: 20px;
+    margin: 8px;
+    text-align: left;
+    color: #282828;
+}
+
+.description {
+    font-weight: lighter;
+    margin: 6px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
